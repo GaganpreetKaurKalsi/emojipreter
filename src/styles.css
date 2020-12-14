@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.textbox{
+max-width : 500px;
+width : 70vw;
+padding : 8px;
+}
