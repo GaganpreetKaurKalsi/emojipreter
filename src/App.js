@@ -45,7 +45,7 @@ export default function App() {
 
       <h3 style={{ paddingTop: "2rem" }}>emojis we know</h3>
       {/* <p>{emojisWeKnow}</p> */}
-      <ul>
+      <ul className="list">
         {emojisWeKnow.map(function (emoji, index) {
           return (
             <span

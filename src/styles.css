@@ -8,3 +8,8 @@ max-width : 500px;
 width : 70vw;
 padding : 8px;
 }
+.list{
+  padding :0;
+  padding-left : 10px;
+  padding-right : 10px;
+}
